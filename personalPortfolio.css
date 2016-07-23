@@ -1,0 +1,14 @@
+.enlarge {
+	font-size: 30px;
+	font-family: Times New Roman; 
+}
+.background {
+	background-color: silver;
+}
+.rounded {
+	border-radius: 30%;
+}
+
+.great {
+	font-family: Monospace;
+}
